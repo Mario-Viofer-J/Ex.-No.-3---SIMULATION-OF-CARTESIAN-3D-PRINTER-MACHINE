@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 04/05/2024
+# Ex. No. 5 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
+### DATE: 27/04/24
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -59,7 +59,10 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![image](https://github.com/Mario-Viofer-J/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144979232/e62b14e0-456b-4420-b1fd-ae701dc72fe5)
+![image](https://github.com/Mario-Viofer-J/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144979232/45721e3e-c045-478f-97d6-aa1c43bd38b4)
+![image](https://github.com/Mario-Viofer-J/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144979232/1e9d7d7b-008b-4153-a82b-6e7101cfe0b7)
+![image](https://github.com/Mario-Viofer-J/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144979232/22f83d2d-0c93-43fe-8fde-84febd294f5c)
+![image](https://github.com/Mario-Viofer-J/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144979232/46d30637-eba6-466f-b709-89f3816b5095)
 
 ### Name: MARIO VIOFER J
 ### Register Number: 212223100032
